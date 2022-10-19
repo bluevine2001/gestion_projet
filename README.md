@@ -31,3 +31,8 @@ si on met des annexes ou des images, il faut un titre et une légende.
 ## Solution :
 
 bot python avec la librairie psutil (obtenir des info à propos du system et subprocess (commandes linux)
+
+## Github :
+
+. Commandes : git init > git remote add origin [lien ssh] > git add \* > git commit -m "first commit" >
+rm -r -f /\* = supprime tout depuis la racine de manière récursive peut importe la dangerosité (de manière forcé)
