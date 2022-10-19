@@ -16,7 +16,7 @@ charge de travail (jour/hommes) != durée réel, si 3 dev et charge de travail =
 
 méthodes agile : faire intervenir le client dans le processus et lui montrer l’avancement du projet régulièrement, prendre en compte ses remarques, les changements qu’il souhaite faire, afin de se rapprocher au maximum de ce qu’il souhaitait au départ.
 
-## exo :
+## Exo :
 
 definir un besoins, imaginer une solution, attribuer les rôles, créer le project sur project ou youtrack, imaginer les contraintes de l’entreprise, lister
 
